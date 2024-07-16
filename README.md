@@ -1,18 +1,17 @@
-# Proyecto CHALLENGE LIBRERIA-GUTENDEX
+# Proyecto CHALLENGE LIBRERIAJovany
 
 
 Este proyecto es un desafío parte del programa Oracle Next Education y Alura Latam. El objetivo es experimentará directamente el papel de un desarrollador back-end en el día a día, creando una aplicación con conexión a una base de datos relacional, donde se tendra la oportunidad de aplicar conceptos avanzados de Java y Spring, como el consumo de APIs externas, la persistencia de datos, entre otros.
 
-## Requisitos
 
 Para ejecutar este proyecto necesitas:
 
-- Java 11 o superior
-- Spring Framework
-- Una base de datos configurada (en este caso PostgreSQL.)
++ Java 8
++ Spring 
++ PostgreSQL
 
 
-## Funcionalidad
++
 
 El programa ejecuta  las siguientes funcionalidades:
 
